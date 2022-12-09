@@ -1,0 +1,11 @@
+one_day,three_day,five_day,predicted_price_change_rank
+BA (12.32%),BAC (10.64%),AAPL (-8.1%),1
+NFLX (6.58%),NKE (5.64%),KO (-4.86%),2
+LMT (-6.37%),TGT (-5.32%),NKE (4.62%),3
+XOM (-4.2%),KO (4.68%),NFLX (4.5%),4
+TMUS (-3.72%),WMT (-1.82%),NVDA (-3.78%),5
+PFE (-3.12%),LMT (1.68%),TMUS (1.83%),6
+MSFT (2.31%),BA (-1.53%),AMZN (-1.33%),7
+AAPL (1.7%),AAPL (0.96%),XOM (-0.56%),8
+AMZN (0.42%),RTX (0.82%),DIS (-0.16%),9
+RTX (-0.33%),DIS (-0.39%),BA (0.15%),10
